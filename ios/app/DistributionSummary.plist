@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bbtcamera.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>7907D9FC75FADF78C582788D48195ECF067FE01A</string>
+				<key>dateExpires</key>
+				<string>2021/3/18</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>BA85C2T7PB.com.bbt.smart.audit</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:www.iabbt.com</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>BA85C2T7PB</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>bbtcamera.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5e8c39c6-d54c-42ef-af8d-e9eb3dc09431</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.bbt.smart.audit</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>BA85C2T7PB</string>
+				<key>name</key>
+				<string>建省 王</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
